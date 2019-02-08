@@ -11,3 +11,5 @@ Script converts heavily compressed video files (using ffmpeg) into readable form
 
 ## Instructions
 Place prorec.bat in any directory containing the footage to be converted and run it. Drag & drop works, but does not support multiple files. 
+
+Video with render time comparisons: https://www.youtube.com/watch?v=YAbM7c9nOTo
