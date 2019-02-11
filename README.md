@@ -7,6 +7,7 @@ Script converts heavily compressed video files (using ffmpeg) into readable form
 ## Requirements
 Download the script:
 * [prorec.bat](https://github.com/gmzorz/prerecs/archive/master.zip) 
+
 Required codecs & software:
 * [Xvid](https://www.xvid.com/download/) (download & install)
 * [quicktime](https://support.apple.com/kb/DL837) (download & install)
