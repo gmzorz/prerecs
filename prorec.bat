@@ -1,6 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 	REM enable batch extensions 
+
+if exist settings.ini ( ren settings.ini s.cmd & call s.cmd & ren s.cmd settings.ini )
+	REM loads optional config
 	
 pushd %~dp0
 	REM change current dir to where this batch file resides (eg running as admin will change default dir to sys32, this will prevent that from happening)
