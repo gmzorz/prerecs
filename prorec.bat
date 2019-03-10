@@ -14,10 +14,9 @@ if [%1]==[] goto scan
 set file=%1
 set name=%~n1
 	REM set variables !file! and !name! to current file, %1 prints file + filepath, %~n1 will print just the name
-	
-for %%a in (%1) do ( pushd %%~da%%~pa ) 
-	REM this checks the variable %1 (which may look like C:\Users\Jim\media\clips\clip.mp4)
-	REM %%a in this case would be the full filepath + file, but we can shorten this using the D(drive) and p(path) so we can properly change dir to path
+
+pushd %~dp1
+	REM push input file destination
 	
 set /p format=convert to [tga, png, xvid, prores]: %=%
 	REM ask for format, !format! will return prompt input
