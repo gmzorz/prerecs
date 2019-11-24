@@ -34,7 +34,7 @@ goto end
 	REM ----- Scan for files -----
 echo convertable files found:
 echo.
-for %%a in (*.mp4, *.avi, *.wmv, *.mov) do ( echo   %%a )
+for %%a in (*.mp4, *.avi, *.wmv, *.mov, *.m4v) do ( echo   %%a )
 	REM list all files ending with suffix in current directory (for each file ending with *.mp4, print, or echo to cmd.exe)
 echo. 
 	REM side note, echo. means blank line :)
