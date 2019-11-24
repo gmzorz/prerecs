@@ -40,7 +40,7 @@ echo.
 	REM side note, echo. means blank line :)
 	
 set /p format=convert to [tga, png, xvid, prores]: %=%
-for %%a in (*.mp4, *.avi, *.wmv, *.mov) do ( 
+for %%a in (*.mp4, *.avi, *.wmv, *.mov, *.m4v) do ( 
 	set file=%%a
 	set name=%%~na
 	call :settings
