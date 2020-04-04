@@ -19,6 +19,6 @@ Following table contains information about footage encoded into the formats desc
 Encoded
 
 | Codec | Encoding time | Playback time (AE only) | Difference Matte (quality difference compared to original) |
-|---|---|---|
-| prores | 7 FPS | 16 FPS |
-| xvid | 81 FPS | 9 FPS |
+|---|---|---|---|
+| prores | 7 FPS | 16 FPS | |
+| xvid | 81 FPS | 9 FPS | |
