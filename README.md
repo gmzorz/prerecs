@@ -19,8 +19,9 @@ Following table contains information about footage encoded into the formats desc
 
 | Codec | Encoding time | Playback time (AE) | File size |
 |---|---|---|---|
-| prores | <t style="color: red;">7 FPS</t> | 16 FPS | 1.6 MB/Frame |
+| prores | 7 FPS | 16 FPS | 1.6 MB/Frame |
 | xvid | 81 FPS | 9 FPS | 0.1 MB/Frame |
 
 Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage)
 
+<img src=https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"></img>
