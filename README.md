@@ -11,10 +11,10 @@ this tool converts heavily compressed video files into readable formats suited f
 * [quicktime](https://support.apple.com/kb/DL837) (download & install)
 * [ffmpeg](https://ffmpeg.zeranoe.com/builds/) (navigate to the C:\Windows\System32 folder, open the ffmpeg zip file, go to the 'bin' folder, and extract all .exe files into the system32 folder)
 
-## Instructions
+## Instructions & Usage
 Download the requirements and install them accordingly. Place prorec.bat in any directory containing the footage to be converted and run it. Drag & drop works, but does not support multiple files. 
 
-## Choosing a codec
+### Choosing a codec
 There are notable differences between each codec, Whether you choose to go with prores completely relies on how much time you have, but also whether you want the most optimal quality. If you decide to go with xvid, expect very fast encoding speeds and small file sizes
 Following table contains information about footage encoded into the formats described (2560x1440) Using Intel i5-6400 CPU @ 2.70GHz
 
