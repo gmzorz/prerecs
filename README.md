@@ -22,7 +22,8 @@ Following table contains information about footage encoded into the formats desc
 | prores | 7 FPS | 16 FPS | 1.64 MB/Frame |
 | xvid | 81 FPS | 9 FPS | 0.10 MB/Frame |
 
-Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage)
+Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage).
+Tolerance level = 1.0%
 
 | XVID | PRORES |
 |---|---|
