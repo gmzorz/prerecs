@@ -26,5 +26,5 @@ Another handy (visual) guide are the following difference mattes, which display 
 
 | XVID | PRORES |
 |---|---|
-| <img src="http://gmzorz.com/img/diffXVID.png" width="640" height="360"></img> | <img src="http://gmzorz.com/img/diffPRORES.png" width="640" height="360"></img> |
+| <img src="http://gmzorz.com/img/diffXVID.png" width="512" height="288"></img> | <img src="http://gmzorz.com/img/diffPRORES.png" width="512" height="288"></img> |
 
