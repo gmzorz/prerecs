@@ -17,9 +17,9 @@ Download the requirements and install them accordingly. Place prorec.bat in any 
 There are notable differences between each codec, Whether you choose to go with prores completely relies on how much time you have, but also whether you want the most optimal quality. If you decide to go with xvid, expect very fast encoding speeds and small file sizes
 Following table contains information about footage encoded into the formats described (1920x1080) Using Intel i5-6400 CPU @ 2.70GHz
 
-| <b>Codec</b> | Encoding time | Playback time (AE) | File size |
+| Codec | Encoding time | Playback time (AE) | File size |
 |---|---|---|---|
-| prores | 7 FPS | 16 FPS | 1.6 MB/Frame |
+| prores | <t style="color: red;">7 FPS</t> | 16 FPS | 1.6 MB/Frame |
 | xvid | 81 FPS | 9 FPS | 0.1 MB/Frame |
 
 Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage)
