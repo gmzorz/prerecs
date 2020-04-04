@@ -15,8 +15,10 @@ this tool converts heavily compressed video files into readable formats suited f
 Download the requirements and install them accordingly. Place prorec.bat in any directory containing the footage to be converted and run it. Drag & drop works, but does not support multiple files. 
 
 There are notable differences between each codec, Whether you choose to go with prores completely relies on how much time you have, but also whether you want the most optimal quality. If you decide to go with xvid, expect very fast encoding speeds and small file sizes
+Following table contains information about footage encoded into the formats described (1920x1080)
+Encoded
 
-| Codec | Encoding time | Playback time (AE only) |
+| Codec | Encoding time | Playback time (AE only) | Difference Matte (quality difference compared to original) |
 |---|---|---|
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
+| prores | 7 FPS | 16 FPS |
+| xvid | 81 FPS | 9 FPS |
