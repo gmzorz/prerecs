@@ -24,4 +24,4 @@ Following table contains information about footage encoded into the formats desc
 
 Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage)
 
-<img src=https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"></img>
+<img src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"></img>
