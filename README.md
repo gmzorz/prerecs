@@ -12,6 +12,12 @@ this tool converts heavily compressed video files into readable formats suited f
 * [ffmpeg](https://ffmpeg.zeranoe.com/builds/) (navigate to the C:\Windows\System32 folder, open the ffmpeg zip file, go to the 'bin' folder, and extract all .exe files into the system32 folder)
 
 ## Instructions
-Place prorec.bat in any directory containing the footage to be converted and run it. Drag & drop works, but does not support multiple files. 
+Download the requirements and install them accordingly. Place prorec.bat in any directory containing the footage to be converted and run it. Drag & drop works, but does not support multiple files. 
 
 Video with render time comparisons: https://www.youtube.com/watch?v=YAbM7c9nOTo
+
+
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
