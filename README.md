@@ -21,4 +21,4 @@ Following table contains information about footage encoded into the formats desc
 |---|---|---|---|
 | prores | 7 FPS | 16 FPS | 1.6 MB/Frame |
 | xvid | 81 FPS | 9 FPS | 0.1 MB/Frame |
-{: .custom-class #custom-id}
+
