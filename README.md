@@ -9,7 +9,7 @@ this tool converts heavily compressed video files into readable formats suited f
 * **[prorec.bat](https://github.com/gmzorz/prerecs/archive/master.zip)**
 * [Xvid](https://www.xvid.com/download/) (download & install)
 * [quicktime](https://support.apple.com/kb/DL837) (download & install)
-* [ffmpeg](https://drive.google.com/uc?export=download&id=1ozqMctkULuvVtCogmyZjXGjw7Q9D-Je0) (this file must be placed in `C:\Windows\System32` or the directory of `prorec.bat` in order for it to work)
+* [ffmpeg](https://drive.google.com/uc?export=download&id=1ozqMctkULuvVtCogmyZjXGjw7Q9D-Je0) (this file must be placed in `C:\Windows\System32` or in the same directory as `prorec.bat` in order for it to work)
 
 ## Instructions & Usage
 Download the requirements and install them accordingly. Place prorec.bat in any directory containing the footage to be converted and run it. Drag & drop works, but does not support multiple files. 
