@@ -22,7 +22,7 @@ There are notable differences between each codec, Whether you choose to go with 
 | prores | 7 FPS | 16 FPS | 1.64 MB/Frame |
 | xvid | 81 FPS | 9 FPS | 0.10 MB/Frame |
 
-Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage).
+Another handy (visual) guide are the following difference mattes, which display the difference in pixels (white being different to original footage). It's easy to spot compression artifacts using this method, howeever this does not take into account colour changes that may not be noticable to the eye
 Tolerance level = 1.0%
 
 | XVID | PRORES |
