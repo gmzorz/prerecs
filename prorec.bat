@@ -52,7 +52,9 @@ for %%a in (*.mp4, *.avi, *.wmv, *.mov, *.m4v) do (
 	REM check for existing dir, if not, create one
 	REM if prompted input equals xvid, %format% will display: xvid, !%format%! will be seen as !xvid!, and the variable !xvid! will be executed
 	
-:end 
+:end
+echo Finished.
+pause >nul
 exit
 :settings
 set "tga=ffmpeg -i ^"!file!^" -y ^"converted_!format!^"/^"!name!^"-%%05d.tga"
